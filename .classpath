@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="res"/>
+	<classpathentry kind="lib" path="E:/Programme/Eclipse/Workspace/JAXP/jaxp-1_6_0/lib/jaxp-api.jar" sourcepath="C:/Users/Walker/Desktop/Desktop/JAXP/jaxp-1_6_0/lib/jaxp-ri.jar">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-16"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Programme/Eclipse/Workspace/JAXP/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="E:/Programme/Eclipse/Workspace/JAXP/jdom-2.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Programme/Eclipse/Workspace/sqlite-jdbc-3.14.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
